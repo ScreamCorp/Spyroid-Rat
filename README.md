@@ -8,7 +8,12 @@ Get our tool from site : spyroidrat.com
 
 
 OUTSTANDING FEATURES
+
+-------------------------------------------------
+
 File Manager
+
+
 – Download/Upload
 – Secure Delete Options
 – Thumbnail/Gallery view
@@ -19,9 +24,13 @@ File Manager
 – Set WallPaper
 
 Location
+
+
 – Live Location
 
 Live Screen Control
+
+
 – Show Screen Live
 – Control Screen (VNC)
 – Use Keyboard
@@ -29,22 +38,30 @@ Live Screen Control
 – Take silent screenshot
 
 Call Manager
+
+
 – Show List Of Call Out /in
 – Delete calls
 
 Send SMS
+
+
 – Improve “Send SMS”
 – Send to multi number
 – Send to list from file
 – Send to all contact
 
 Application Manager
+
+
 – Show List of Application
 – Open App
 – Uninstall App
 – Disable / enable app
 
 Keylogger
+
+
 – Online/Live keylogger
 – Offline keylogger
 – Save it in client folder
@@ -52,10 +69,14 @@ Keylogger
   even pin of screen lock
 
 SMS Manager
+
+
 – Show List Of SMS
 – Delete SMS
 
 Fun Tools
+
+
 – Call Number
 – Download Apk From Link
 – Show Messege On Screen
@@ -68,6 +89,8 @@ Fun Tools
 – Stealer 2FA Google Authenticator Code
 
 Permissions Manager
+
+
 – Checking allowed/not
    allowed Permissions
 – Request Permissions from panel
@@ -75,21 +98,29 @@ Permissions Manager
 – Draw on app
 
 Account Manager
+
+
 – Show Account Of App
    Email/Number
 
 Auto Clicker
+
+
 – Watch user Touches on
    screen
 – Record user Touches
 – Repeat User Touches
 
 Web browser
+
+
 – Web browser Monitor
 – Web browser Html Viewer
 – Open link and browser monitor / record
 
 Injection in real app
+
+
 – Silent control
 – Work like real app
 – Ask for accessibility
@@ -102,35 +133,49 @@ Injection in real app
 – Re-encrypt the apk
 
 Admin Rights
+
+
 – Request Admin Rights
 – Lock screen
 – Wipe Data (delete everything)
 
 Camera
+
+
 – Take Screenshot Camera
 – Open Fron Camera
 – Open Back Camera
 – Take Photo
 
 Keyboard Manager (beta)
+
+
 – Replace phone keyboard with Spyroid Rat custom keyboard
 – Support 3 languages
   “English – Arabic – Chinese “
 – Record every thing enter by victim
 
 Self Distraction
+
+
 – To remove the apk & data (auto with super mod)
 
 Microphone Capture
+
+
 – Listen
 – Speak
 – Record
 
 Notification Listener
+
+
 – Get All Notification
 – Save it
 
 Call Listener
+
+
 – Get all call Notification
 – Record out /in call
 
@@ -138,20 +183,35 @@ Call Listener
 
 FUD functions
 
+-------------------------------------------------------
+
 O Anti-Kill App
+
 O Anti-Delete App
+
 O Auto Click Start Screen Record 
+
 O New Fake App Skin Changer 
+
 O Bypass Battery Optimization For All Phone 
+
 O Stealer 2FA Google Authenticator Code  
+
 O Get Permissions  Automatically 
+
 O offline/online keylogger 
+
 O Bypass Google Protection 
+
 O Unlock the screen and control (VNC) 
+
 o Apk Full injection With Reall APP Spy 
+
 O Run Automatically After Restart Phone 
+
 O Bypass black Screen of Banks App
 
+-----------------------------------------------------------
 
 Spyroid Rat
 
