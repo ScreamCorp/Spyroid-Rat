@@ -164,6 +164,6 @@ https://spyroidrat.sellix.io/
 
 telegram channel
 
-https://spyroidrat.com/
+https://t.me/Spyroidrat
 
 admin telegram : @ScreamCorp
